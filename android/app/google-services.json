@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476511763519",
+    "project_id": "chitto-demo",
+    "storage_bucket": "chitto-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476511763519:android:97ca0cd71a222989d18c8a",
+        "android_client_info": {
+          "package_name": "com.example.chitto_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZGC9GntEhtpFlILjqIMoM2eB2JQcDCas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
